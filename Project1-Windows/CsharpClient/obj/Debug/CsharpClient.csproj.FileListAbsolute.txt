@@ -1,0 +1,10 @@
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\bin\Debug\CsharpClient.exe.config
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\bin\Debug\CsharpClient.exe
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\bin\Debug\CsharpClient.pdb
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\CsharpClient.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\Interop.FileMgrComponentLib.dll
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\Interop.SearchComponentLib.dll
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\CsharpClient.csproj.ResolveComReference.cache
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\CsharpClient.csproj.CoreCompileInputs.cache
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\CsharpClient.exe
+D:\Syracuse\cse775 DO\myProject\Project1\CsharpClient\obj\Debug\CsharpClient.pdb

@@ -1,0 +1,2 @@
+For "Project1-Linux", run "sudo chmod u+x demo.sh" to assign script policy, before run the ./*.sh 
+For "Project1-Windows", run developer prompt ... as Admin, and run "Set-ExecutionPolicy RemoeteSigned to assign script policy, before run the ./*.ps1
